@@ -94,7 +94,7 @@
                     <nav class="header__menu mobile-menu">
                         <ul>
                             <li class="active"><a href="./index.html">Home</a></li>
-                            <li><a href="./shop.html">Shop</a></li>
+                            <li><a href="./Shop">Shop</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="dropdown">
                                     <li><a href="./about.html">About Us</a></li>
@@ -231,7 +231,7 @@
                     <div class="product__item">
 
                         <div class="product__item__pic set-bg">
-                            <a href="#">
+                            <a href="/ProductDetails">
                                 <img src="img/product/product-1.jpg" alt="">
                             </a>
                             <span class="label">New</span>

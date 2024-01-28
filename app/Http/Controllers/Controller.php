@@ -9,4 +9,13 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
+
+    function Shop()
+    {
+        return view('Shop');
+    }
+    function ProductDetails()
+    {
+        return view('ProductDetail');
+    }
 }
