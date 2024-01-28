@@ -229,8 +229,9 @@
             <div class="row product__filter">
                 <div class="col-lg-3 col-md-6 col-sm-6 col-md-6 col-sm-6 mix new-arrivals">
                     <div class="product__item">
-                        <a href="">
+
                             <div class="product__item__pic set-bg" data-setbg="img/product/product-1.jpg">
+                                <img src="img/product/product-1.jpg" alt="">
                                 <span class="label">New</span>
                                 <ul class="product__hover">
                                     <li><a href="#"><img src="img/icon/heart.png" alt=""></a></li>
@@ -238,7 +239,7 @@
                                 <li><a href="#"><img src="img/icon/search.png" alt=""></a></li> --}}
                                 </ul>
                             </div>
-                        </a>
+
                         <div class="product__item__text">
                             <h6>Piqué Biker Jacket</h6>
                             <a href="#" class="add-cart">+ Add To Cart</a>
